@@ -22,7 +22,7 @@ Selanjutnya, buat Tree menggunakan metode VLSM (Variable Length Subnet Mask) unt
 ![tree](img/Tree.jpg)
 
 Lalu cari Network ID, Netmask, dan Broadcast Address tiap Subnetnya
-![tabel2](img/tabel2.jpg)
+![tabel2](img/tabel2.png)
 
 Setelah didapatkan semua IP-nya, dapat langsung diimplementasikan di Cisco Packet Tracer
 
